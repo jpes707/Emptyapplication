@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2021jpesaven</string>
+    <string-array name="user_messages">
+        <item>Hello</item>
+        <item>Hola</item>
+        <item>Bonjour</item>
+        <item>Hallo</item>
+        <item>你好</item>
+    </string-array>
+</resources>
